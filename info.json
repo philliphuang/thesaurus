@@ -1,0 +1,12 @@
+{
+  "categories" : [
+    "Search"
+  ],
+  "displayName" : "Thesaurus",
+  "name" : "thesaurus",
+  "description" : "thesaurus.com shortcut",
+  "examples" : [
+    "thesaurus exemplify",
+    "thesaurus great"
+  ]
+}

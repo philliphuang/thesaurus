@@ -1,0 +1,3 @@
+thesaurus ~word(word)
+th ~word(word)
+syn ~word(word)
